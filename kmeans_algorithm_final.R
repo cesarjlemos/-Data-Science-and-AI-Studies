@@ -1,5 +1,14 @@
 ########################################################
 #         Kmeans cluster Algorithm - Hackaton          #
+#						       #
+# Algoritmo de clusterização para Hackaton COVID-19    #
+# com o objetivo de clusterizar cidades e estados de   #
+# acordo com dados do COVID.			       #
+#						       #
+# Obs: modelo em fase de produção, escrevendo nas      #
+# tabelas do PostgreeSQL.                              #
+#                                                      #
+# Feito por: César Jocilan Lemos Nascimento            #
 ########################################################
 
 ### Pacotes
