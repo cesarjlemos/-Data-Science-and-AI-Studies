@@ -15,7 +15,7 @@ con <- dbConnect(drv,
                  host = "bd.inova.serpro.gov.br",
                  port = 5433,
                  user = "equipe701",
-                 password =  "CWVxdWlwZTcwMQk3ZGQ4")
+                 password =  "xxxxxxxxxx")
 
 ########################################################
 # Kmeans cluster Selects                               #
